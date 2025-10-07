@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Mage\\Desktop\\Desafio Tecnico Microosserviços\\Desafio-Tecnico-Microsservicos\\src\\estoque\\Estoque.csproj": {}
+    "C:\\Users\\Mage\\Desktop\\Desafio Tecnico Microosserviços\\Desafio-Tecnico-Microsservicos\\src\\Estoque\\Estoque.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Mage\\Desktop\\Desafio Tecnico Microosserviços\\Desafio-Tecnico-Microsservicos\\src\\Ecommerce\\Ecommerce.csproj": {
+    "C:\\Users\\Mage\\Desktop\\Desafio Tecnico Microosserviços\\Desafio-Tecnico-Microsservicos\\src\\Ecommerce.Shared\\Ecommerce.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mage\\Desktop\\Desafio Tecnico Microosserviços\\Desafio-Tecnico-Microsservicos\\src\\Ecommerce\\Ecommerce.csproj",
-        "projectName": "Ecommerce",
-        "projectPath": "C:\\Users\\Mage\\Desktop\\Desafio Tecnico Microosserviços\\Desafio-Tecnico-Microsservicos\\src\\Ecommerce\\Ecommerce.csproj",
+        "projectUniqueName": "C:\\Users\\Mage\\Desktop\\Desafio Tecnico Microosserviços\\Desafio-Tecnico-Microsservicos\\src\\Ecommerce.Shared\\Ecommerce.Shared.csproj",
+        "projectName": "Ecommerce.Shared",
+        "projectPath": "C:\\Users\\Mage\\Desktop\\Desafio Tecnico Microosserviços\\Desafio-Tecnico-Microsservicos\\src\\Ecommerce.Shared\\Ecommerce.Shared.csproj",
         "packagesPath": "C:\\Users\\Mage\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mage\\Desktop\\Desafio Tecnico Microosserviços\\Desafio-Tecnico-Microsservicos\\src\\Ecommerce\\obj\\",
+        "outputPath": "C:\\Users\\Mage\\Desktop\\Desafio Tecnico Microosserviços\\Desafio-Tecnico-Microsservicos\\src\\Ecommerce.Shared\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Mage\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -63,14 +63,14 @@
         }
       }
     },
-    "C:\\Users\\Mage\\Desktop\\Desafio Tecnico Microosserviços\\Desafio-Tecnico-Microsservicos\\src\\estoque\\Estoque.csproj": {
+    "C:\\Users\\Mage\\Desktop\\Desafio Tecnico Microosserviços\\Desafio-Tecnico-Microsservicos\\src\\Estoque\\Estoque.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mage\\Desktop\\Desafio Tecnico Microosserviços\\Desafio-Tecnico-Microsservicos\\src\\estoque\\Estoque.csproj",
+        "projectUniqueName": "C:\\Users\\Mage\\Desktop\\Desafio Tecnico Microosserviços\\Desafio-Tecnico-Microsservicos\\src\\Estoque\\Estoque.csproj",
         "projectName": "Estoque",
-        "projectPath": "C:\\Users\\Mage\\Desktop\\Desafio Tecnico Microosserviços\\Desafio-Tecnico-Microsservicos\\src\\estoque\\Estoque.csproj",
+        "projectPath": "C:\\Users\\Mage\\Desktop\\Desafio Tecnico Microosserviços\\Desafio-Tecnico-Microsservicos\\src\\Estoque\\Estoque.csproj",
         "packagesPath": "C:\\Users\\Mage\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mage\\Desktop\\Desafio Tecnico Microosserviços\\Desafio-Tecnico-Microsservicos\\src\\estoque\\obj\\",
+        "outputPath": "C:\\Users\\Mage\\Desktop\\Desafio Tecnico Microosserviços\\Desafio-Tecnico-Microsservicos\\src\\Estoque\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Mage\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -85,8 +85,8 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\Users\\Mage\\Desktop\\Desafio Tecnico Microosserviços\\Desafio-Tecnico-Microsservicos\\src\\Ecommerce\\Ecommerce.csproj": {
-                "projectPath": "C:\\Users\\Mage\\Desktop\\Desafio Tecnico Microosserviços\\Desafio-Tecnico-Microsservicos\\src\\Ecommerce\\Ecommerce.csproj"
+              "C:\\Users\\Mage\\Desktop\\Desafio Tecnico Microosserviços\\Desafio-Tecnico-Microsservicos\\src\\Ecommerce.Shared\\Ecommerce.Shared.csproj": {
+                "projectPath": "C:\\Users\\Mage\\Desktop\\Desafio Tecnico Microosserviços\\Desafio-Tecnico-Microsservicos\\src\\Ecommerce.Shared\\Ecommerce.Shared.csproj"
               }
             }
           }

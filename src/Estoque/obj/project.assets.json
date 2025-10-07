@@ -1703,14 +1703,14 @@
           }
         }
       },
-      "Ecommerce/1.0.0": {
+      "Ecommerce.Shared/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v9.0",
         "compile": {
-          "bin/placeholder/Ecommerce.dll": {}
+          "bin/placeholder/Ecommerce.Shared.dll": {}
         },
         "runtime": {
-          "bin/placeholder/Ecommerce.dll": {}
+          "bin/placeholder/Ecommerce.Shared.dll": {}
         }
       }
     }
@@ -4983,15 +4983,15 @@
         "useSharedDesignerContext.txt"
       ]
     },
-    "Ecommerce/1.0.0": {
+    "Ecommerce.Shared/1.0.0": {
       "type": "project",
-      "path": "../Ecommerce/Ecommerce.csproj",
-      "msbuildProject": "../Ecommerce/Ecommerce.csproj"
+      "path": "../Ecommerce.Shared/Ecommerce.Shared.csproj",
+      "msbuildProject": "../Ecommerce.Shared/Ecommerce.Shared.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net9.0": [
-      "Ecommerce >= 1.0.0",
+      "Ecommerce.Shared >= 1.0.0",
       "Microsoft.AspNetCore.Authentication.JwtBearer >= 9.0.9",
       "Microsoft.AspNetCore.OpenApi >= 9.0.9",
       "Microsoft.EntityFrameworkCore >= 9.0.9",
@@ -5009,11 +5009,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Mage\\Desktop\\Desafio Tecnico Microosserviços\\Desafio-Tecnico-Microsservicos\\src\\estoque\\Estoque.csproj",
+      "projectUniqueName": "C:\\Users\\Mage\\Desktop\\Desafio Tecnico Microosserviços\\Desafio-Tecnico-Microsservicos\\src\\Estoque\\Estoque.csproj",
       "projectName": "Estoque",
-      "projectPath": "C:\\Users\\Mage\\Desktop\\Desafio Tecnico Microosserviços\\Desafio-Tecnico-Microsservicos\\src\\estoque\\Estoque.csproj",
+      "projectPath": "C:\\Users\\Mage\\Desktop\\Desafio Tecnico Microosserviços\\Desafio-Tecnico-Microsservicos\\src\\Estoque\\Estoque.csproj",
       "packagesPath": "C:\\Users\\Mage\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Mage\\Desktop\\Desafio Tecnico Microosserviços\\Desafio-Tecnico-Microsservicos\\src\\estoque\\obj\\",
+      "outputPath": "C:\\Users\\Mage\\Desktop\\Desafio Tecnico Microosserviços\\Desafio-Tecnico-Microsservicos\\src\\Estoque\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Mage\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -5028,8 +5028,8 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "C:\\Users\\Mage\\Desktop\\Desafio Tecnico Microosserviços\\Desafio-Tecnico-Microsservicos\\src\\Ecommerce\\Ecommerce.csproj": {
-              "projectPath": "C:\\Users\\Mage\\Desktop\\Desafio Tecnico Microosserviços\\Desafio-Tecnico-Microsservicos\\src\\Ecommerce\\Ecommerce.csproj"
+            "C:\\Users\\Mage\\Desktop\\Desafio Tecnico Microosserviços\\Desafio-Tecnico-Microsservicos\\src\\Ecommerce.Shared\\Ecommerce.Shared.csproj": {
+              "projectPath": "C:\\Users\\Mage\\Desktop\\Desafio Tecnico Microosserviços\\Desafio-Tecnico-Microsservicos\\src\\Ecommerce.Shared\\Ecommerce.Shared.csproj"
             }
           }
         }

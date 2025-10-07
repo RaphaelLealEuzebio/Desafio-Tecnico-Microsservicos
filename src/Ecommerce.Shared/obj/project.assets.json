@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Mage\\Desktop\\Desafio Tecnico Microosserviços\\Desafio-Tecnico-Microsservicos\\Ecommerce.Shared\\Ecommerce.Shared.csproj",
+      "projectUniqueName": "C:\\Users\\Mage\\Desktop\\Desafio Tecnico Microosserviços\\Desafio-Tecnico-Microsservicos\\src\\Ecommerce.Shared\\Ecommerce.Shared.csproj",
       "projectName": "Ecommerce.Shared",
-      "projectPath": "C:\\Users\\Mage\\Desktop\\Desafio Tecnico Microosserviços\\Desafio-Tecnico-Microsservicos\\Ecommerce.Shared\\Ecommerce.Shared.csproj",
+      "projectPath": "C:\\Users\\Mage\\Desktop\\Desafio Tecnico Microosserviços\\Desafio-Tecnico-Microsservicos\\src\\Ecommerce.Shared\\Ecommerce.Shared.csproj",
       "packagesPath": "C:\\Users\\Mage\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Mage\\Desktop\\Desafio Tecnico Microosserviços\\Desafio-Tecnico-Microsservicos\\Ecommerce.Shared\\obj\\",
+      "outputPath": "C:\\Users\\Mage\\Desktop\\Desafio Tecnico Microosserviços\\Desafio-Tecnico-Microsservicos\\src\\Ecommerce.Shared\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Mage\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cmyX/4I8XUU=",
+  "dgSpecHash": "i/nQzxAfGbs=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Mage\\Desktop\\Desafio Tecnico Microosserviços\\Desafio-Tecnico-Microsservicos\\src\\estoque\\Estoque.csproj",
+  "projectFilePath": "C:\\Users\\Mage\\Desktop\\Desafio Tecnico Microosserviços\\Desafio-Tecnico-Microsservicos\\src\\Estoque\\Estoque.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Mage\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\Mage\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
