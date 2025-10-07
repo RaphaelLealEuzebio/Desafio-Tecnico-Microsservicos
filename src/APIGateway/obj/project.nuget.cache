@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3jyUpwxjl9I=",
+  "dgSpecHash": "OOuOTTCRYvA=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Mage\\Documents\\Desafio Tecnico Microosserviços\\Desafio-Tecnico-Microsservicos\\APIGateway\\APIGateway.csproj",
+  "projectFilePath": "C:\\Users\\Mage\\Desktop\\Desafio Tecnico Microosserviços\\Desafio-Tecnico-Microsservicos\\src\\APIGateway\\APIGateway.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Mage\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.9\\microsoft.aspnetcore.openapi.9.0.9.nupkg.sha512",
     "C:\\Users\\Mage\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512",

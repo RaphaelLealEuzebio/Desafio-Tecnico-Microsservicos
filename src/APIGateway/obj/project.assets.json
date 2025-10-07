@@ -172,11 +172,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Mage\\Documents\\Desafio Tecnico Microosserviços\\Desafio-Tecnico-Microsservicos\\APIGateway\\APIGateway.csproj",
+      "projectUniqueName": "C:\\Users\\Mage\\Desktop\\Desafio Tecnico Microosserviços\\Desafio-Tecnico-Microsservicos\\src\\APIGateway\\APIGateway.csproj",
       "projectName": "APIGateway",
-      "projectPath": "C:\\Users\\Mage\\Documents\\Desafio Tecnico Microosserviços\\Desafio-Tecnico-Microsservicos\\APIGateway\\APIGateway.csproj",
+      "projectPath": "C:\\Users\\Mage\\Desktop\\Desafio Tecnico Microosserviços\\Desafio-Tecnico-Microsservicos\\src\\APIGateway\\APIGateway.csproj",
       "packagesPath": "C:\\Users\\Mage\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Mage\\Documents\\Desafio Tecnico Microosserviços\\Desafio-Tecnico-Microsservicos\\APIGateway\\obj\\",
+      "outputPath": "C:\\Users\\Mage\\Desktop\\Desafio Tecnico Microosserviços\\Desafio-Tecnico-Microsservicos\\src\\APIGateway\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Mage\\AppData\\Roaming\\NuGet\\NuGet.Config"
