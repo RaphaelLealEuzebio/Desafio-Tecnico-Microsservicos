@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using Estoque.Models;
+using Estoque.DTOs;
 
 namespace Estoque.Services.Interfaces
 {
@@ -13,5 +14,6 @@ namespace Estoque.Services.Interfaces
         Task<Produto> CriarProdutoAsync(Produto produto);
         Task<Produto?> AtualizarProdutoAsync(int id, Produto produto);
         Task<bool> DeletarProdutoAsync(int id);
+        Task DecrementarEstoqueAsync(List<VendaItemDto> itens);
     }
 }

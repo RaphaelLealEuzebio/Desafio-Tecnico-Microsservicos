@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 using Estoque.Models;
 using Estoque.Repositories.Interfaces;
 using Estoque.Services.Interfaces;
+using Estoque.DTOs;
 
 namespace Estoque.Services
 {
@@ -50,7 +51,7 @@ namespace Estoque.Services
 
             return existente;
         }
-        
+
         public async Task<bool> DeletarProdutoAsync(int id)
         {
             var produto = await _repository.GetByIdAsync(id);
@@ -61,6 +62,21 @@ namespace Estoque.Services
             await _repository.SaveChangesAsync();
 
             return true;
+        }
+        public async Task DecrementarEstoqueAsync(List<VendaItemDto> itens)
+        {
+            foreach (var item in itens)
+            {
+                // Usando o método correto do repository
+                var produto = await _repository.GetByIdAsync(item.ProdutoId); 
+                if (produto != null)
+                {
+                    produto.Quantidade -= item.Quantidade;
+                    await _repository.UpdateAsync(produto); 
+                }
+            }
+
+            await _repository.SaveChangesAsync(); // garante persistência no banco
         }
     }
 }
